@@ -13,7 +13,7 @@ This is an Android project allowing to create a segmented progress bar similar t
 USAGE
 -----
 
-To make a Segmented ProgressBar in your layout XML and to use it add Segmented ProgressBa library in your project or you can also grab it via Gradle:
+To make a Segmented ProgressBar in your layout XML and to use it add Segmented ProgressBar library in your project or you can also grab it via Gradle:
 
 ```groovy
 implementation 'com.github.Captaincoder1111:Segmented-Progress-Bar:1.0'
