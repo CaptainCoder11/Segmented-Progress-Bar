@@ -1,4 +1,4 @@
-<p align="center"><img src="/preview/header.png"></p>
+<p align="center"><img src="/preview/header.png" height=500></p>
 
 SegmentedProgressBar
 =================
